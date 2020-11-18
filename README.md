@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋🏾
 
 <!--
 **ricardomalan/ricardomalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+**I am a student of Software Analysis and Development. I like technology since my childhood!**
+I particularly like to code front-end, but I code back-end too.
+
+🚀 Below some languages, frameworks and libraries I know
+
+> - JavaScript (ES6)
+ >
+> - ReactJs and React Native ⚛️
+ >
+> - Java
+ >
+> - SpringBoot
+ >
