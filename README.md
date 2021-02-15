@@ -4,6 +4,11 @@
 **ricardomalan/ricardomalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardomalan&color=red" alt="Ricardo Malan" /> </p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardomalan)](https://github.com/ricardomalan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-malan-jesus-costa-6b1b51143/)](https://www.linkedin.com/in/ricardo-malan-jesus-costa-6b1b51143/)
+
 **I am a student of Software Analysis and Development. I like technology since my childhood!**
 I particularly like to code front-end, but I code back-end too.
 
