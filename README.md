@@ -9,8 +9,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardomalan)](https://github.com/ricardomalan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-malan-jesus-costa-6b1b51143/)](https://www.linkedin.com/in/ricardo-malan-jesus-costa-6b1b51143/)
 
-**I am a student of Software Analysis and Development. I like technology since my childhood!**
-I particularly like to code front-end, but I code back-end too.
+**Don't think I'm a programmer because of a language, I'm because of logic!**
+
+A technology lover since childhood, I always pursued taking courses and learning more and more about this vast 'tech' world, and even after I graduated, I still have to learn more and more, because I understood that we can't stop studying , because at every moment something new appears and it is necessary to follow up.
 
 🚀 Below some languages, frameworks and libraries I know
 
@@ -18,11 +19,17 @@ I particularly like to code front-end, but I code back-end too.
  >
 > - ReactJs and React Native ⚛️
  >
+> - HMTL5
+ >
+> - CSS3
+ >
 > - Java
  >
 > - SpringBoot
  >
- 
+> - Kotlin
+ > 
+
 <br>
 
 <!-- API | MYGITHUB -->
